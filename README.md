@@ -6,11 +6,11 @@ Initial position of UAV 1, <img src="https://render.githubusercontent.com/render
 Initial position of UAV 2, <img src="https://render.githubusercontent.com/render/math?math=\mathbf{p}_2 = [4,0]^T\ \text{m}"><br>
 Initial distance between UAVs, <img src="https://render.githubusercontent.com/render/math?math=d = 2\ \text{m}"><br>
 Position of target (T), <img src="https://render.githubusercontent.com/render/math?math=\mathbf{p}_T = [6,7]^T\ \text{m}"><br>
-Standoff circle about target for UAV 1, <img src="https://render.githubusercontent.com/render/math?math=R_1 = 1\ \text{m}"><br>
-Standoff circle about target for UAV 2, <img src="https://render.githubusercontent.com/render/math?math=R_2 = 3\ \text{m}"><br>
+Radius of standoff circle about target for UAV 1, <img src="https://render.githubusercontent.com/render/math?math=R_1 = 1\ \text{m}"><br>
+Radius of standoff circle about target for UAV 2, <img src="https://render.githubusercontent.com/render/math?math=R_2 = 3\ \text{m}"><br>
 Control gain for standoff circle tracking, <img src="https://render.githubusercontent.com/render/math?math=K_T = 0.8"><br>
 Gain for CBF obstacle avoidance constraint, <img src="https://render.githubusercontent.com/render/math?math=\gamma = 5"><br>
-Control bound, <img src="https://render.githubusercontent.com/render/math?math=u_{\text{max}} = 0.5\ \text{m/s}"><br>
+Control input bound, <img src="https://render.githubusercontent.com/render/math?math=u_{\text{max}} = 0.5\ \text{m/s}"><br>
 Angular rate bound about UAV 2, <img src="https://render.githubusercontent.com/render/math?math=\omega_{\text{max}} = 0.2\ \text{rad/s}"><br>
 <br>
 Obstacle circular buffer region positions and radii:<br>
