@@ -13,7 +13,7 @@ Gain for CBF obstacle avoidance constraint, <img src="https://render.githubuserc
 Control bound, <img src="https://render.githubusercontent.com/render/math?math=u_{\text{max}} = 0.5\ \text{m/s}"><br>
 Angular rate bound about UAV 2, <img src="https://render.githubusercontent.com/render/math?math=\omega_{\text{max}} = 0.2\ \text{rad/s}"><br>
 <br>
-Obstacle positions and radii:<br>
+Obstacle circular buffer region positions and radii:<br>
 1) <img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}_{1}: \mathbf{p}_{o_1} = [5,2]^T\ \text{m}, R_{o_1} = 0.9\ \text{m}"><br>
 2) <img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}_{2}: \mathbf{p}_{o_2} = [3,2]^T\ \text{m}, R_{o_2} = 0.5\ \text{m}"><br>
-3) <img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}_{1}: \mathbf{p}_{o_3} = [3.5,3.5]^T\ \text{m}, R_{o_3} = 0.7\ \text{m}"><br>
+3) <img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}_{3}: \mathbf{p}_{o_3} = [3.5,3.5]^T\ \text{m}, R_{o_3} = 0.7\ \text{m}"><br>
