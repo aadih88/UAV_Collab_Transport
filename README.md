@@ -1,5 +1,5 @@
 # Multi-UAV Collaborative Transportation of Payloads with Obstacle Avoidance
-The repository contains figures and an animation of a pair of UAVs transporting a rigid elongated payload as they maneuver through obstacles in the environment.<br>
+The repository contains figures and an animation of a pair of UAVs transporting a rigid elongated payload as they maneuver around obstacles in the environment.<br>
 **Simulation details:**<br>
 Number of obstacles, <img src="https://render.githubusercontent.com/render/math?math=M = 3"><br>
 Initial position of UAV 1, <img src="https://render.githubusercontent.com/render/math?math=\mathbf{p}_1 = [0,4]^T\ \text{m}"><br>
