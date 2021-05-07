@@ -18,7 +18,7 @@ Payload moment of inertia <img src="https://render.githubusercontent.com/render/
 Mass of UAVs <img src="https://render.githubusercontent.com/render/math?math=m_1,m_2 = 1\ \text{kg}"><br>
 Gain for velocity-based control <img src="https://render.githubusercontent.com/render/math?math=K= 2"><br>
 <br>
-Obstacle circular buffer region positions and radii:<br>
+Obstacles enclosed by balls with center and radii:<br>
 1) <img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}_{1}: \mathbf{p}_{o_1} = [2,1]^T\ \text{m}, R_{o_1} = 0.9\ \text{m}"><br>
 2) <img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}_{2}: \mathbf{p}_{o_2} = [2,3]^T\ \text{m}, R_{o_2} = 0.5\ \text{m}"><br>
 3) <img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}_{3}: \mathbf{p}_{o_3} = [3.5,2.5]^T\ \text{m}, R_{o_3} = 0.7\ \text{m}"><br>
